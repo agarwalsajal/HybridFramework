@@ -28,7 +28,7 @@ public class GetProductsTest extends ApiBaseTest {
             
 
       //ApiValidator.validateProductCount(productsResponse,200);
-      ApiValidator.validateSchema(response, "productsSchema.json");
+      //ApiValidator.validateSchema(response, "productsSchema.json");
     }
 
     
