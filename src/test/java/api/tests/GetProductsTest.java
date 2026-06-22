@@ -25,7 +25,7 @@ public class GetProductsTest extends ApiBaseTest {
         
          ApiValidator.validateStatusCode(response, 200);
 
-            
+            System.out.println("Sajal's case");
 
       //ApiValidator.validateProductCount(productsResponse,200);
       //ApiValidator.validateSchema(response, "productsSchema.json");
