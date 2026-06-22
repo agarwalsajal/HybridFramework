@@ -1,0 +1,146 @@
+2026-06-18 14:32:07 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-18 14:32:07 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-18 14:32:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-18 15:23:45 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-18 15:23:45 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-18 15:23:58 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-18 22:19:55 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-18 22:19:55 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-18 22:19:59 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-18 22:19:59 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-18 22:19:59 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-18 22:20:03 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-18 22:30:53 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-18 22:30:53 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-18 22:30:56 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-18 22:30:57 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-18 22:30:57 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-18 22:31:00 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-18 22:42:48 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-18 22:42:48 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-18 22:42:48 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-18 22:43:39 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-18 22:43:39 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-18 22:43:39 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-18 22:50:56 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-18 22:50:56 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-18 22:50:59 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-18 22:50:59 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-18 22:50:59 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-18 22:51:03 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 12:47:08 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 12:47:08 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 12:47:11 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 12:47:11 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 12:47:11 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 12:47:15 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 12:48:34 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 12:48:34 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 12:48:39 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 12:48:39 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 12:48:39 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 12:48:43 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:14:23 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:14:23 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:14:27 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:14:27 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:14:27 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:14:28 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:14:31 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:14:31 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:14:35 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:14:35 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:14:35 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:14:36 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:14:37 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:14:37 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:14:40 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:14:40 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:14:41 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:14:41 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:18:29 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:18:29 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:18:35 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:18:35 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:18:36 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:18:36 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:18:38 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:18:38 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:18:40 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:18:41 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:18:41 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:18:42 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:18:43 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:18:43 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:18:45 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:18:46 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:18:46 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:18:47 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:19:47 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:19:47 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:19:50 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:19:50 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:19:51 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:19:52 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 16:23:15 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 16:23:15 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 16:23:20 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 16:23:20 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 16:23:20 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 16:23:28 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 17:31:05 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 17:31:05 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 17:31:12 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 17:31:12 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 17:31:12 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 17:31:42 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-19 17:32:14 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-19 17:32:14 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-19 17:32:23 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-19 17:32:24 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-19 17:32:24 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-19 17:32:44 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-20 10:28:55 [main] INFO  utils.LoggerUtil - Framework Started
+2026-06-20 10:28:55 [main] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-20 10:28:58 [main] INFO  utils.LoggerUtil - Entering Username
+2026-06-20 10:28:58 [main] INFO  utils.LoggerUtil - Entering Password
+2026-06-20 10:28:58 [main] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-20 10:29:01 [main] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-20 11:01:25 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-20 11:01:25 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-20 11:01:29 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-20 11:01:29 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-20 11:01:29 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-20 11:01:31 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-20 11:05:14 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-20 11:05:14 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-20 11:05:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-20 11:05:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-20 11:05:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-20 11:05:20 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-20 11:39:14 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-20 11:39:14 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-20 11:39:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-20 11:39:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-20 11:39:17 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-20 11:39:21 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-20 11:42:00 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-20 11:42:00 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-20 11:42:03 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-20 11:42:03 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-20 11:42:03 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-20 11:42:06 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-20 23:14:06 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-20 23:14:06 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-20 23:14:08 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-20 23:14:09 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-20 23:14:09 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-20 23:14:13 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-21 00:03:52 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Framework Started
+2026-06-21 00:03:52 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Starting Login Test
+2026-06-21 00:03:54 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Username
+2026-06-21 00:03:54 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Entering Password
+2026-06-21 00:03:54 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Clicking Login Button
+2026-06-21 00:04:00 [TestNG-test-UI Tests-1] INFO  utils.LoggerUtil - Login Test Completed
+2026-06-21 00:04:02 [TestNG-test-API Tests-1] INFO  utils.LoggerUtil - Retrying Test: getProducts Attempt: 1
+2026-06-21 00:04:02 [TestNG-test-API Tests-1] INFO  utils.LoggerUtil - Retrying Test: getProducts Attempt: 2
