@@ -8,6 +8,13 @@ pipeline {
 
     stages {
 
+        stage('Verify Tools') {
+    steps {
+        bat 'java -version'
+        bat 'mvn -version'
+    }
+}
+
         stage('checkout') {
             steps {
                 git branch: 'main',
